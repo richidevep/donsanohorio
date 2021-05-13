@@ -1,0 +1,4 @@
+#ignore save file wokstation visual code
+*workspace_DSH.code-workspace
+#exclude directory  .vscode
+.vscode/
